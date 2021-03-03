@@ -1,4 +1,4 @@
--- MySQL dump 10.13  Distrib 5.5.62, for Win64 (AMD64)
+-- MySQL dump 10.13  Distrib 5.5.62, 
 --
 -- Host: localhost    Database: chat
 -- ------------------------------------------------------
