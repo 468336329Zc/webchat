@@ -8,9 +8,7 @@ Springboot、websocket、vue、MySQL
 
 # 3.安装教程
 
-1.直接下载项目，将webchat.sql导入数据库，数据库名称chat
-
-
+1.首先将webchat.sql导入数据库，数据库名称chat
 
 2.将项目中picture中的chat文件夹拷贝到D盘下面(这是springboot中配置的虚拟访问路径。
 
